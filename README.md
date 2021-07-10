@@ -3,7 +3,7 @@
 
 ## Your short description
 - 🔭 I’m currently working on - Personal Website
-- 🌱 I’m currently learning - JavaScript
+- 🌱 I’m currently learning - JavaScript and Lua
 
 <!-- ❔❔❔❔ means username in below README.md -->
 <!-- Also feel free to update second URL to any URL -->
