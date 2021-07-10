@@ -7,4 +7,4 @@
 
 <!-- ❔❔❔❔ means username in below README.md -->
 <!-- Also feel free to update second URL to any URL -->
-[![Indrajeet's github stats](https://github-readme-stats.vercel.app/api?username=Exaby&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
+[![Indrajeet's github stats](https://github-readme-stats.vercel.app/api?username=Exaby&count_private=true&include_all_commits=true&theme=radical)
