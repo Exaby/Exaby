@@ -1,10 +1,16 @@
-### Hi, I'm Keaton <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-[![Website](https://img.shields.io/badge/WIP-Home-green?style=flat-square)](https://spco.xyz/)
-
-##
-- 🔭 I’m currently working on - Personal Website
-- 🌱 I’m currently learning - JavaScript and Lua
-
-<!-- ❔❔❔❔ means username in below README.md -->
-<!-- Also feel free to update second URL to any URL -->
-![Indrajeet's github stats](https://github-readme-stats.vercel.app/api?username=Exaby&count_private=true&include_all_commits=true&theme=radical)
+<div align="center">
+  <h1>Space Core</h1>
+  <br>
+  <a href='https://discord.com/users/584752051163103243' target='_blank'><img alt="discord status" src="https://api.statusbadges.me/badge/status/584752051163103243" /></a>
+  <img alt="who viewed me?" src="https://komarev.com/ghpvc/?username=Exaby" />
+  
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src='https://skillicons.dev/icons?i=go,ts,docker,cloudflare,nodejs,discord,bots,js,linux,md,sass,workers,bash,html,angular' />
+    </a>
+  </p>
+  
+  <a href="https://discord.com/users/584752051163103243">
+    <img src="https://lanyard.cnrad.dev/api/584752051163103243?bg=333333&borderRadius=10px" />
+  </a>
+</div>
