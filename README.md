@@ -9,8 +9,4 @@
       <img src='https://skillicons.dev/icons?i=go,ts,docker,cloudflare,nodejs,discord,bots,js,linux,md,sass,workers,bash,html,angular' />
     </a>
   </p>
-  
-  <a href="https://discord.com/users/584752051163103243">
-    <img src="https://lanyard.cnrad.dev/api/584752051163103243?bg=333333&borderRadius=10px" />
-  </a>
 </div>
