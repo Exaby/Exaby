@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Space Core</h1>
+  <h1>Exaby</h1>
   <br>
   <a href='https://discord.com/users/584752051163103243' target='_blank'><img alt="discord status" src="https://api.statusbadges.me/badge/status/584752051163103243" /></a>
   <img alt="who viewed me?" src="https://komarev.com/ghpvc/?username=Exaby" />
